@@ -1,0 +1,24 @@
+{"title" : "SOUL ...",
+"href" : "/viewItem.do?ark=...",
+"thumbName":"...",
+"browseBy" : [
+    {
+  "BrowseHref": "/browseContents.do?coreDescTermId=12&selectedProjects=...",
+  "BrowseSubj" : "Language"
+     },				
+     {
+  "BrowseHref": "/browseContents.do?coreDescTermId=5&selectedProjects=...",
+  "BrowseSubj" : "Personal or Corporate Name"
+     },
+    {
+  "BrowseHref": "/browseContents.do?coreDescTermId=4&selectedProjects=...",
+  "BrowseSubj" : "Subject"
+     },				
+     {
+  "BrowseHref": "/browseContents.do?coreDescTermId=9&selectedProjects=...",
+  "BrowseSubj" : "Type"
+     }
+],			
+"dataType" : [{"category" : "..."}], 
+"description" : "... "
+},
