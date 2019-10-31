@@ -1,24 +1,20 @@
 {"title" : "SOUL Publications, Inc. records, 1955-2002",
 "href" : "/viewItem.do?ark=21198/zz0015w1xw",
 "thumbName":"...",
-"browseBy" : [
-    {
-  "BrowseHref": "/browseContents.do?coreDescTermId=12&selectedProjects=...",
-  "BrowseSubj" : "Language"
-     },				
+"browseBy" : [			
      {
-  "BrowseHref": "/browseContents.do?coreDescTermId=5&selectedProjects=...",
+  "BrowseHref": "/browseContents.do?coreDescTermId=5&selectedProjects=189",
   "BrowseSubj" : "Personal or Corporate Name"
      },
     {
-  "BrowseHref": "/browseContents.do?coreDescTermId=4&selectedProjects=...",
+  "BrowseHref": "/browseContents.do?coreDescTermId=4&selectedProjects=189",
   "BrowseSubj" : "Subject"
      },				
      {
-  "BrowseHref": "/browseContents.do?coreDescTermId=9&selectedProjects=...",
+  "BrowseHref": "/browseContents.do?coreDescTermId=9&selectedProjects=189",
   "BrowseSubj" : "Type"
      }
 ],			
-"dataType" : [{"category" : "..."}], 
-"description" : "... "
+"dataType" : [{"category" : "audio"}], 
+"description" : "..."
 },
